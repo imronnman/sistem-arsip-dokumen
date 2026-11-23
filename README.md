@@ -6,7 +6,7 @@ Dibuat untuk memenuhi tugas: **Technical Test – Web Developer**.
 
 ---
 
-## 🚀 Fitur Utama
+## Fitur Utama
 
 ### 1. Autentikasi Pengguna
 * Login menggunakan kombinasi email dan password terenkripsi (`password_hash` / `password_verify`).
@@ -40,7 +40,7 @@ Dibuat untuk memenuhi tugas: **Technical Test – Web Developer**.
 
 ---
 
-## 🛠️ Spesifikasi Teknologi
+## Spesifikasi Teknologi
 
 * **Framework:** CodeIgniter 4 (v4.3.8)
 * **Bahasa Pemrograman:** PHP >= 8.0 / 8.1 / 8.2
@@ -50,7 +50,7 @@ Dibuat untuk memenuhi tugas: **Technical Test – Web Developer**.
 
 ---
 
-## 🔑 Kredensial Akun Pengujian (Testing)
+## Kredensial Akun Pengujian (Testing)
 
 Untuk keperluan review dan pengujian aplikasi, silakan gunakan akun berikut:
 
@@ -60,7 +60,7 @@ Untuk keperluan review dan pengujian aplikasi, silakan gunakan akun berikut:
 
 ---
 
-## 📥 Panduan Instalasi Lokal
+## Panduan Instalasi Lokal
 
 ### 1. Clone atau Unduh Repository
 Letakkan folder proyek di dalam direktori web server Anda (misalnya `htdocs` untuk XAMPP):
@@ -102,7 +102,7 @@ Anda akan diarahkan ke halaman login. Masukkan email dan password akun pengujian
 
 ---
 
-## 📂 Struktur Direktori Proyek
+## Struktur Direktori Proyek
 
 ```text
 sistem-arsip/
